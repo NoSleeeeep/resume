@@ -1,0 +1,22 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+.prof img{
+  border: 1px solid white;
+}
+
+.btn{
+  background-image: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 51%, #a1c4fd 100%);
+  border-radius: 8px;
+}
+
+.btn:active{
+  border: none;
+  outline: nono;
+}
+
+
